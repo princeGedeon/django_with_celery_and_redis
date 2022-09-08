@@ -1,0 +1,6 @@
+Hello {{name |safe}}
+
+Ici voici ta revue
+{{review | safe}}
+
+Merci!!!
